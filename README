@@ -19,3 +19,5 @@ $ python beta.py
 
 The batched.py was used for internal coding and it is not necessary to be run. However, it can be run in the same ways as the previous ones with:
 $ python batched.py
+
+The link to the repository is:
