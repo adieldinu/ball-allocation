@@ -1,0 +1,21 @@
+Dinu Eduard-Adiel
+Assignment - 2
+
+Instructions to run:
+
+For different parameters m and n or T or R, beta, in the begining of the files there are the parameters hardcoded.
+The main.py contains one-choice strategy, different plotting functions and numerical prints are present. The specific function need to be called in the main part of the code.
+
+Then in the terminal run the command:
+$ python main.py
+
+The two-choice.py containts the two-choice strategy and different functions to print and plot are used seprately. Any specific desire needs to be called in the main part.
+Then in the terminal run the command:
+$ python two-choice.py
+
+The beta.py containts the last strategy and different functions to print and plot are used seprately. Any specific desire needs to be called in the main part.
+Then in the terminal run the command:
+$ python beta.py
+
+The batched.py was used for internal coding and it is not necessary to be run. However, it can be run in the same ways as the previous ones with:
+$ python batched.py
